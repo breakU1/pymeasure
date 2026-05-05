@@ -22,6 +22,8 @@
 # THE SOFTWARE.
 #
 
+from .thorlabsell14 import ThorlabsELL14
+from .thorlabsellx import ThorlabsEllx
 from .thorlabspm100usb import ThorlabsPM100USB
 from .thorlabspro8000 import ThorlabsPro8000
 from .thorlabsmbxseries import ThorlabsMBXSeries
